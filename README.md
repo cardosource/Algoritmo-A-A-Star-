@@ -1,4 +1,4 @@
-.Inteligencia Arficial         
+.Inteligencia Artificial         
 --             
 Busca A estrela (A*):  
   
